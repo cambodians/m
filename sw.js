@@ -2,8 +2,8 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/app.867ff5e.js",
-    "revision": "5152390749b0c178655899433c53d98b"
+    "url": "/_nuxt/app.2dcc319.js",
+    "revision": "ceaf1c725988a82f5dbc38868a8dee84"
   },
   {
     "url": "/_nuxt/commons.app.c103baf.js",
@@ -30,7 +30,7 @@ workbox.precaching.precacheAndRoute([
     "revision": "d12487b5d5e9aadef6929d1dc1a87d89"
   }
 ], {
-  "cacheId": "nuxtmovies",
+  "cacheId": "pheabyundotcom",
   "directoryIndex": "/",
   "cleanUrls": false
 })
